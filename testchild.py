@@ -1,1 +1,1 @@
-pring(in child")
+print("in child")
